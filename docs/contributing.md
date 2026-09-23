@@ -81,7 +81,7 @@ The Dev Container intentionally matches CI:
 
 | Tool          | Dev Container version | CI version (source)                         |
 | ------------- | --------------------- | ------------------------------------------- |
-| Node.js       | 22 (via NodeSource)   | 22 (via `actions/setup-node@v4`)            |
+| Node.js       | 22 (via NodeSource)   | 22 (via `actions/setup-node@v7`)            |
 | Yarn          | 4.9.2 (via Corepack)  | 4.9.2 (via `corepack prepare`)              |
 | Rust          | 1.89.0 (via rustup)   | 1.89.0 (via `dtolnay/rust-toolchain@stable`)|
 | wasm target   | wasm32v1-none         | wasm32v1-none                                |
